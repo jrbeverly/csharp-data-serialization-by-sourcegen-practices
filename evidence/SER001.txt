@@ -1,0 +1,6 @@
+CsvDiagnosticsTests.Nested_member_targeting_csv_reports_SER001_and_emits_nothing
+
+Severity: Error
+SER001: Member 'location' is a nested record; CSV does not support nested members
+
+The generator produced no BadRow CSV serializer.

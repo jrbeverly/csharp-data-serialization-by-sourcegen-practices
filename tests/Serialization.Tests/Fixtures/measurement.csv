@@ -1,0 +1,2 @@
+enabled,optionalEnabled,count,optionalCount,total,optionalTotal,ratio,optionalRatio,amount,optionalAmount,label,note
+true,,12,-3,4000000000,,0.5,,19.95,,"sensor,1",ready

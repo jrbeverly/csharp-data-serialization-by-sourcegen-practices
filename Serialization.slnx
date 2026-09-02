@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Serialization.Abstractions/Serialization.Abstractions.csproj" />
+    <Project Path="src/Serialization.Generator/Serialization.Generator.csproj" />
+    <Project Path="src/Sample.Domain/Sample.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Serialization.Tests/Serialization.Tests.csproj" />
+  </Folder>
+</Solution>
